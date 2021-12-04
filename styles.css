@@ -1,0 +1,44 @@
+body {
+    background-color: lightgrey;
+}
+.instagramHeader {
+    background-color: white;
+    display: flex;
+    justify-content: center;
+}
+
+.instagramBody{
+    margin: auto;
+    width: 600px;
+    height: 50%;
+    background-color: white;
+}
+
+.instagramBodyHeader {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-left: 10px;
+    padding-right: 10px;
+ }
+
+h3 {
+margin-top: 5px;
+margin-bottom: 5px;
+
+}
+img {
+    width: 600px;
+}
+
+.instagramBodyFooter {
+    padding: 5px;
+}
+
+.postNumber {
+    color: grey;
+}
+
+.spaceBetween {
+    background-color: lightgrey;
+}
